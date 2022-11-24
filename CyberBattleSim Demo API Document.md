@@ -74,7 +74,7 @@ Where episode_id is the id of the episode.
 
 **Example response:**
 
-![image-20221123184553994](C:\Users\Webber\AppData\Roaming\Typora\typora-user-images\image-20221123184553994.png)
+![image-20221123184553994](https://github.com/Screamer-Y/CyberBattleSim-API/blob/main/img1.png)
 
 
 
